@@ -1,0 +1,5 @@
+This is the development log for A Simple Corner App. It keeps record of the last thing done, and the status, so is easier to come back to the project.
+
+Date: 08-16-2013
+Last Section Worked: home_controller.rb, unicorn.rb, capistrano
+Description: I put an under construction image, and set all the config for deployment. Deploymet was done. The app is ready to be started.
