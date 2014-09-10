@@ -1,2 +1,2 @@
 # Unicorn load command
-bundle exec unicorn_rails -E production -c /var/www/a_simple_corner/current/config/unicorn.rb -D
+bundle exec unicorn_rails -E production -c /var/rails_apps/a_simple_corner/current/config/unicorn.rb -D

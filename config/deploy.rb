@@ -8,7 +8,7 @@ set :scm_passphrase, ""
 
 set :user, "root"
 set :use_sudo, false
-set :deploy_to, "/var/www/a_simple_corner"
+set :deploy_to, "/var/rails_apps/a_simple_corner"
 
 set :stages, ["production"]
 set :default_stage, "production"
